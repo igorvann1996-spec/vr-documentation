@@ -27,7 +27,7 @@ Loganshunt ms Bauble of True Blood
 
 1. Рівний пріоритет в наступних випадках:
 
-   * **Біс ліст** - це список предметів який прописаний в офісійному документі біс лістів - **Біс лісти для всіх класів** [Lordareon BiS Lists](https://docs.google.com/spreadsheets/d/1HZK0H8YdVcQEXj8Lbne3n6nGqKMvmcb4_3ogM4erQrI/edit).
+   * **Біс ліст** - це список предметів який прописаний в офісійному документі біс лістів - **Біс лісти для всіх класів** [Verkhovna Rada BiS Lists](https://docs.google.com/spreadsheets/d/1wHTD-RT1HMKSZasJkSWByveClYITjxOUgmocjLzGZhU/edit).
    * **МС Чендж на одні річ** - це зміна мейн спеку, яка була вказана в каналі **#мс-ченджі** виключно під одну річ, наприклад: `Logansdk ms Bauble of True Blood`.
 
 
