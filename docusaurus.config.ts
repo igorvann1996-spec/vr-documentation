@@ -91,12 +91,11 @@ const config: Config = {
           position: 'left',
           label: 'Документація',
         },
-        // {to: '/blog', label: 'Blog', position: 'left'},
-        // {
-        //   href: 'https://github.com/facebook/docusaurus',
-        //   label: 'GitHub',
-        //   position: 'right',
-        // },
+        {
+          href: `https://github.com/${organizationName}/${projectName}`,
+          label: 'GitHub',
+          position: 'right',
+        },
       ],
     },
     footer: {
@@ -114,31 +113,27 @@ const config: Config = {
         {
           title: 'Спільнота',
           items: [
-            // {
-            //   label: 'Stack Overflow',
-            //   href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            // },
             {
               label: 'Discord',
               href: 'https://discord.gg/d5VzmuB7v4',
             },
-            // {
-            //   label: 'X',
-            //   href: 'https://x.com/docusaurus',
-            // },
           ],
         },
         {
           title: 'Додаткові ресурси',
           items: [
-            // {
-            //   label: 'Blog',
-            //   to: '/blog',
-            // },
-            // {
-            //   label: 'GitHub',
-            //   href: 'https://github.com/facebook/docusaurus',
-            // },
+            {
+              label: 'Bis Lists',
+              href: 'https://docs.google.com/spreadsheets/d/1wHTD-RT1HMKSZasJkSWByveClYITjxOUgmocjLzGZhU/edit',
+            },
+            {
+              label: 'Questions & Feedback',
+              href: 'https://forms.gle/Jctgio78c4wYaJHy8',
+            },
+            {
+              label: 'GitHub',
+              href: `https://github.com/${organizationName}/${projectName}`,
+            },
           ],
         },
       ],

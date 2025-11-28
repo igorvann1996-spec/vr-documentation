@@ -10,11 +10,11 @@ sidebar_position: 8
 
 Наразі гільдія потребує персонажів наступних класів:
 
-1. Restoration Shaman - Найвищий пріоритет
+1. Discipline Priest - Найвищий пріоритет
 2. Restoration Druid - Найвищий пріоритет для Ruby Sanctum 25HC
-3. Demonology Warlock
-4. Discipline Priest
-5. Feral Druid
+3. Fury Warrior - від 6.2к гс з розумінням свого призначення 
+4. Combat Rogue - від 6.2к гс з розумінням свого призначення
+5. Hunter
 
 ### 2. Спікери (Рейд лідери)
 
