@@ -12,6 +12,7 @@ sidebar_position: 2
 | Unloot       | 19-06-2025 | [Link](https://armory.warmane.com/character/Unloot/Icecrown/profile)      |
 | Brainlagz    | 21-08-2025 | [Link](https://armory.warmane.com/character/Brainlagz/Icecrown/profile)   |
 | Renderer     | 28-08-2025 | [Link](https://armory.warmane.com/character/Renderer/Icecrown/profile)    |
+| Twelvyy      | 22-09-2025 | [Link](https://armory.warmane.com/character/Twelvyy/Icecrown/profile)     |
 | Yourdarling  | 06-11-2025 | [Link](https://armory.warmane.com/character/Yourdarling/Icecrown/profile) |
 | Etendark     | 13-11-2025 | [Link](https://armory.warmane.com/character/Etendark/Icecrown/profile)    |
 | Narzeotpp    | 27-11-2025 | [Link](https://armory.warmane.com/character/Narzeotpp/Icecrown/profile)   |
